@@ -1,0 +1,97 @@
+{
+  "api_url": "https://api-castellet.onrender.com",
+  "api_password": "mySecurePassword123",
+  "pregunta_final": "Quin any es va fundar l'Institut Castellet?",
+  "resposta_final": "1998",
+  "videos": [
+    "https://sergigotarra.com/institutCastelletAssets/v1.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v2.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v3.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v4.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v5.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v6.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v7.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v8.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v9.mp4",
+    "https://sergigotarra.com/institutCastelletAssets/v10.mp4"
+  ],
+  "audios": {
+    "catala": [
+      "https://sergigotarra.com/institutCastelletAssets/catala1.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala2.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala3.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala4.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala5.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala6.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala7.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala8.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala9.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/catala10.mp3"
+    ],
+    "castella": [
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/castella.mp3"
+    ],
+    "angles": [
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/angles.mp3"
+    ],
+    "frances": [
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/francia.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/frances.mp3"
+    ],
+    "alemany": [
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3",
+      "https://sergigotarra.com/institutCastelletAssets/german.mp3"
+    ]
+  },
+  "imatges": {
+    "portada": "https://sergigotarra.com/institutCastelletAssets/splash1080x2400.png",
+    "fons": "https://sergigotarra.com/institutCastelletAssets/mapa1080x2400.png",
+    "credits": "https://sergigotarra.com/institutCastelletAssets/credits1080x2400.png"
+  },
+  "coordenades": [
+    { "x": 41.12345, "y": 1.23456, "radi": 5 },
+    { "x": 41.12350, "y": 1.23460, "radi": 5 },
+    { "x": 41.12355, "y": 1.23470, "radi": 5 },
+    { "x": 41.12360, "y": 1.23480, "radi": 5 },
+    { "x": 41.12365, "y": 1.23490, "radi": 5 },
+    { "x": 41.12370, "y": 1.23500, "radi": 5 },
+    { "x": 41.12375, "y": 1.23510, "radi": 5 },
+    { "x": 41.12380, "y": 1.23520, "radi": 5 },
+    { "x": 41.12385, "y": 1.23530, "radi": 5 },
+    { "x": 41.12390, "y": 1.23540, "radi": 5 }
+  ]
+}
